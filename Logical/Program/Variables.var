@@ -1,0 +1,6 @@
+VAR
+	lamps : ARRAY[0..3] OF BOOL;
+	button_colors : ARRAY[0..3] OF UINT;
+	lamp_speed : BOOL;
+	enabled : BOOL;
+END_VAR

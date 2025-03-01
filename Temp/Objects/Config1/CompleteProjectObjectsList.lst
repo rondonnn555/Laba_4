@@ -1,0 +1,635 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.5.2.102"?>
+<Objects>
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Package.pkg"
+    LogicalPath=""
+    Type="Package.ParentUnknown"
+    LastWriteTime="133852968805677997" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Global.typ"
+    LogicalPath="Global.typ"
+    Type="File"
+    LastWriteTime="133840884122528994"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Global.var"
+    LogicalPath="Global.var"
+    Type="File"
+    LastWriteTime="133846988487518875"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\Package.pkg"
+    LogicalPath="Libraries"
+    Type="Package"
+    LastWriteTime="133846986972311755" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\operator\binary.lby"
+    LogicalPath="Libraries.operator"
+    Type="Library"
+    LastWriteTime="133840884133518415" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\operator\operator.fun"
+    LogicalPath="Libraries.operator.operator.fun"
+    Type="File"
+    LastWriteTime="133840884133458575"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\operator\operator.typ"
+    LogicalPath="Libraries.operator.operator.typ"
+    Type="File"
+    LastWriteTime="133840884133498470"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\operator\operator.var"
+    LogicalPath="Libraries.operator.operator.var"
+    Type="File"
+    LastWriteTime="133840884133508446"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\runtime\binary.lby"
+    LogicalPath="Libraries.runtime"
+    Type="Library"
+    LastWriteTime="133840884137676178" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\runtime\runtime.fun"
+    LogicalPath="Libraries.runtime.runtime.fun"
+    Type="File"
+    LastWriteTime="133840884137620747"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\runtime\runtime.typ"
+    LogicalPath="Libraries.runtime.runtime.typ"
+    Type="File"
+    LastWriteTime="133840884137646240"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\runtime\runtime.var"
+    LogicalPath="Libraries.runtime.runtime.var"
+    Type="File"
+    LastWriteTime="133840884137666207"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\astime\binary.lby"
+    LogicalPath="Libraries.astime"
+    Type="Library"
+    LastWriteTime="133840884141790286" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\astime\astime.fun"
+    LogicalPath="Libraries.astime.astime.fun"
+    Type="File"
+    LastWriteTime="133840884141740423"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\astime\astime.typ"
+    LogicalPath="Libraries.astime.astime.typ"
+    Type="File"
+    LastWriteTime="133840884141760365"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\astime\astime.var"
+    LogicalPath="Libraries.astime.astime.var"
+    Type="File"
+    LastWriteTime="133840884141780312"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\AsIecCon\binary.lby"
+    LogicalPath="Libraries.AsIecCon"
+    Type="Library"
+    LastWriteTime="133840884145839690" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\AsIecCon\AsIecCon.fun"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.fun"
+    Type="File"
+    LastWriteTime="133840884145789803"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\AsIecCon\AsIecCon.typ"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.typ"
+    Type="File"
+    LastWriteTime="133840884145809775"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\AsIecCon\AsIecCon.var"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.var"
+    Type="File"
+    LastWriteTime="133840884145829722"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\UnitTexts.tmx"
+    LogicalPath="Libraries.UnitTexts.tmx"
+    Type="File"
+    LastWriteTime="133840884883581248"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\UnitTexts1.tmx"
+    LogicalPath="Libraries.UnitTexts1.tmx"
+    Type="File"
+    LastWriteTime="133840884886438081"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\Acp10par\Binary.lby"
+    LogicalPath="Libraries.Acp10par"
+    Type="Library"
+    LastWriteTime="133846986149745235" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\Acp10par\Acp10par.var"
+    LogicalPath="Libraries.Acp10par.Acp10par.var"
+    Type="File"
+    LastWriteTime="133846986149735244"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\NcGlobal\Binary.lby"
+    LogicalPath="Libraries.NcGlobal"
+    Type="Library"
+    LastWriteTime="133846986162456905" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\NcGlobal\NcGlobal.fun"
+    LogicalPath="Libraries.NcGlobal.NcGlobal.fun"
+    Type="File"
+    LastWriteTime="133846986162416734"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\NcGlobal\NcGlobal.typ"
+    LogicalPath="Libraries.NcGlobal.NcGlobal.typ"
+    Type="File"
+    LastWriteTime="133846986162436671"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\NcGlobal\NcGlobal.var"
+    LogicalPath="Libraries.NcGlobal.NcGlobal.var"
+    Type="File"
+    LastWriteTime="133846986162446883"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\Acp10man\Binary.lby"
+    LogicalPath="Libraries.Acp10man"
+    Type="Library"
+    LastWriteTime="133846986175951890" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\Acp10man\Acp10man.typ"
+    LogicalPath="Libraries.Acp10man.Acp10man.typ"
+    Type="File"
+    LastWriteTime="133846986175941908"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\Acp10sdc\binary.lby"
+    LogicalPath="Libraries.Acp10sdc"
+    Type="Library"
+    LastWriteTime="133846986922375191" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\Acp10sdc\acp10sdc.var"
+    LogicalPath="Libraries.Acp10sdc.acp10sdc.var"
+    Type="File"
+    LastWriteTime="133846986922285438"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\Acp10sdc\acp10sdc.typ"
+    LogicalPath="Libraries.Acp10sdc.acp10sdc.typ"
+    Type="File"
+    LastWriteTime="133846986922375191"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\Acp10_MC\binary.lby"
+    LogicalPath="Libraries.Acp10_MC"
+    Type="Library"
+    LastWriteTime="133846986938910957" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\Acp10_MC\acp10_mc.fun"
+    LogicalPath="Libraries.Acp10_MC.acp10_mc.fun"
+    Type="File"
+    LastWriteTime="133846986938871069"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\Acp10_MC\acp10_mc.typ"
+    LogicalPath="Libraries.Acp10_MC.acp10_mc.typ"
+    Type="File"
+    LastWriteTime="133846986938891008"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\Acp10_MC\acp10_mc.var"
+    LogicalPath="Libraries.Acp10_MC.acp10_mc.var"
+    Type="File"
+    LastWriteTime="133846986938910957"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\brsystem\binary.lby"
+    LogicalPath="Libraries.brsystem"
+    Type="Library"
+    LastWriteTime="133846986939160294" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\brsystem\brsystem.fun"
+    LogicalPath="Libraries.brsystem.brsystem.fun"
+    Type="File"
+    LastWriteTime="133846986939110431"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\brsystem\brsystem.typ"
+    LogicalPath="Libraries.brsystem.brsystem.typ"
+    Type="File"
+    LastWriteTime="133846986939130372"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\brsystem\brsystem.var"
+    LogicalPath="Libraries.brsystem.brsystem.var"
+    Type="File"
+    LastWriteTime="133846986939150319"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\sys_lib\binary.lby"
+    LogicalPath="Libraries.sys_lib"
+    Type="Library"
+    LastWriteTime="133846986939389680" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\sys_lib\sys_lib.fun"
+    LogicalPath="Libraries.sys_lib.sys_lib.fun"
+    Type="File"
+    LastWriteTime="133846986939349788"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\sys_lib\sys_lib.typ"
+    LogicalPath="Libraries.sys_lib.sys_lib.typ"
+    Type="File"
+    LastWriteTime="133846986939369735"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\sys_lib\sys_lib.var"
+    LogicalPath="Libraries.sys_lib.sys_lib.var"
+    Type="File"
+    LastWriteTime="133846986939389680"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\AsBrStr\binary.lby"
+    LogicalPath="Libraries.AsBrStr"
+    Type="Library"
+    LastWriteTime="133846986972231828" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\AsBrStr\AsBrStr.fun"
+    LogicalPath="Libraries.AsBrStr.AsBrStr.fun"
+    Type="File"
+    LastWriteTime="133846986972191941"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\AsBrStr\AsBrStr.typ"
+    LogicalPath="Libraries.AsBrStr.AsBrStr.typ"
+    Type="File"
+    LastWriteTime="133846986972201915"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Libraries\AsBrStr\AsBrStr.var"
+    LogicalPath="Libraries.AsBrStr.AsBrStr.var"
+    Type="File"
+    LastWriteTime="133846986972221860"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Program\ANSIC.prg"
+    LogicalPath="Program"
+    Type="Program"
+    LastWriteTime="133840969737168302" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Program\Main.c"
+    LogicalPath="Program.Main.c"
+    Type="File"
+    LastWriteTime="133852986463582199"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Program\Types.typ"
+    LogicalPath="Program.Types.typ"
+    Type="File"
+    LastWriteTime="133840900925175996"
+    Private="true" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Program\Variables.var"
+    LogicalPath="Program.Variables.var"
+    Type="File"
+    LastWriteTime="133847026214301603"
+    Private="true" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Visu\Vc.dob"
+    LogicalPath="Visu"
+    Type="DataObject"
+    LastWriteTime="133841002594117841" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Visu\VCObject.vc"
+    LogicalPath="Visu.VCObject.vc"
+    Type="File"
+    LastWriteTime="133841002594117841"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Library\ANSIC.lby"
+    LogicalPath="Library"
+    Type="Library"
+    LastWriteTime="133852974487595170" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Library\Types.typ"
+    LogicalPath="Library.Types.typ"
+    Type="File"
+    LastWriteTime="133846954579450976"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Library\Constants.var"
+    LogicalPath="Library.Constants.var"
+    Type="File"
+    LastWriteTime="133846972831417542"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Library\Library.fun"
+    LogicalPath="Library.Library.fun"
+    Type="File"
+    LastWriteTime="133852971238290514"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Library\State.c"
+    LogicalPath="Library.State.c"
+    Type="File"
+    LastWriteTime="133852973027879094"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Program1\ANSIC.prg"
+    LogicalPath="Program1"
+    Type="Program"
+    LastWriteTime="133846974303582234" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Program1\Main.c"
+    LogicalPath="Program1.Main.c"
+    Type="File"
+    LastWriteTime="133852987686066698"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Program1\Types.typ"
+    LogicalPath="Program1.Types.typ"
+    Type="File"
+    LastWriteTime="133846974303562281"
+    Private="true" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\Program1\Variables.var"
+    LogicalPath="Program1.Variables.var"
+    Type="File"
+    LastWriteTime="133852997434468786"
+    Private="true" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\ncsdcctrl\IEC.prg"
+    LogicalPath="ncsdcctrl"
+    Type="Program"
+    LastWriteTime="133846986725272454" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\ncsdcctrl\ncsdcctrlCyclic.st"
+    LogicalPath="ncsdcctrl.ncsdcctrlCyclic.st"
+    Type="File"
+    LastWriteTime="133846986735963854"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\ncsdcctrl\ncsdcctrlInit.st"
+    LogicalPath="ncsdcctrl.ncsdcctrlInit.st"
+    Type="File"
+    LastWriteTime="133846986735913985"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\ncsdcctrl\ncsdcctrl.typ"
+    LogicalPath="ncsdcctrl.ncsdcctrl.typ"
+    Type="File"
+    LastWriteTime="133846986735874101"
+    Private="true" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\ncsdcctrl\ncsdcctrl.var"
+    LogicalPath="ncsdcctrl.ncsdcctrl.var"
+    Type="File"
+    LastWriteTime="133846986999040124"
+    Private="true" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\acp10etxen\Ett.dob"
+    LogicalPath="acp10etxen"
+    Type="DataObject"
+    LastWriteTime="133846986912172490" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\acp10etxen\acp10etxen.ett"
+    LogicalPath="acp10etxen.acp10etxen.ett"
+    Type="File"
+    LastWriteTime="133846986912711045"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\gAxis01obj\Package.pkg"
+    LogicalPath="gAxis01obj"
+    Type="Package"
+    LastWriteTime="133846986992946410" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\gAxis01obj\gAxis01a\Apt.dob"
+    LogicalPath="gAxis01obj.gAxis01a"
+    Type="DataObject"
+    LastWriteTime="133846986982913323" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\gAxis01obj\gAxis01a\gAxis01a.apt"
+    LogicalPath="gAxis01obj.gAxis01a.gAxis01a.apt"
+    Type="File"
+    LastWriteTime="133846986983172554"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\gAxis01obj\gAxis01i\Ax.dob"
+    LogicalPath="gAxis01obj.gAxis01i"
+    Type="DataObject"
+    LastWriteTime="133846986989435810" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Logical\gAxis01obj\gAxis01i\gAxis01i.ax"
+    LogicalPath="gAxis01obj.gAxis01i.gAxis01i.ax"
+    Type="File"
+    LastWriteTime="133846986992796811"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Physical\Config1\Config.pkg"
+    LogicalPath="Config1"
+    Type="Configuration.ParentUnknown"
+    LastWriteTime="133840884176595811" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Physical\Config1\Hardware.hw"
+    LogicalPath="Config1.Hardware.hw"
+    Type="File"
+    LastWriteTime="133853006924699537"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Physical\Config1\Hardware.hwl"
+    LogicalPath="Config1.Hardware.hwl"
+    Type="File"
+    LastWriteTime="133846988486451730"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Physical\Config1\4PP065_0571_P74\Cpu.pkg"
+    LogicalPath="Config1.4PP065_0571_P74"
+    Type="Cpu"
+    LastWriteTime="133853006920616038" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Physical\Config1\4PP065_0571_P74\Cpu.sw"
+    LogicalPath="Config1.4PP065_0571_P74.Cpu.sw"
+    Type="File"
+    LastWriteTime="133852986464993267"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Physical\Config1\4PP065_0571_P74\Cpu.per"
+    LogicalPath="Config1.4PP065_0571_P74.Cpu.per"
+    Type="File"
+    LastWriteTime="133840884147678604"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Physical\Config1\4PP065_0571_P74\IoMap.iom"
+    LogicalPath="Config1.4PP065_0571_P74.IoMap.iom"
+    Type="File"
+    LastWriteTime="133852987213845480"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Physical\Config1\4PP065_0571_P74\PvMap.vvm"
+    LogicalPath="Config1.4PP065_0571_P74.PvMap.vvm"
+    Type="File"
+    LastWriteTime="133840884147702945"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Physical\Config1\4PP065_0571_P74\Connectivity\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.Connectivity"
+    Type="Package"
+    LastWriteTime="133840884147917705" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Physical\Config1\4PP065_0571_P74\Connectivity\OpcUA\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.Connectivity.OpcUA"
+    Type="Package"
+    LastWriteTime="133840884147907736" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Physical\Config1\4PP065_0571_P74\TextSystem\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.TextSystem"
+    Type="Package"
+    LastWriteTime="133840884147954527" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Physical\Config1\4PP065_0571_P74\UnitSystem\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.UnitSystem"
+    Type="Package"
+    LastWriteTime="133840884147986540" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity"
+    Type="Package"
+    LastWriteTime="133840884148438560" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\UserRoleSystem\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.UserRoleSystem"
+    Type="Package"
+    LastWriteTime="133840884148095360" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\UserRoleSystem\Role.role"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.UserRoleSystem.Role.role"
+    Type="File"
+    LastWriteTime="133840884148065420"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\UserRoleSystem\User.user"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.UserRoleSystem.User.user"
+    Type="File"
+    LastWriteTime="133840884148085511"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore"
+    Type="Package"
+    LastWriteTime="133840884148398665" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\OwnCertificates\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.OwnCertificates"
+    Type="Package"
+    LastWriteTime="133840884148268019" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\OwnCertificates\Certificates\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.OwnCertificates.Certificates"
+    Type="Package"
+    LastWriteTime="133840884148178257" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\OwnCertificates\PrivateKeys\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.OwnCertificates.PrivateKeys"
+    Type="Package"
+    LastWriteTime="133840884148268019" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.ThirdPartyCertificates"
+    Type="Package"
+    LastWriteTime="133840884148338826" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\SoftwareCertificates\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.ThirdPartyCertificates.SoftwareCertificates"
+    Type="Package"
+    LastWriteTime="133840884148328902" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\CertificateRevocationLists\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.CertificateRevocationLists"
+    Type="Package"
+    LastWriteTime="133840884148358772" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\CertificateSigningRequests\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.CertificateSigningRequests"
+    Type="Package"
+    LastWriteTime="133840884148388695" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\TransportLayerSecurity\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.TransportLayerSecurity"
+    Type="Package"
+    LastWriteTime="133840884148428586" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Physical\Config1\4PP065_0571_P74\mappControl\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.mappControl"
+    Type="Package"
+    LastWriteTime="133840884148478635" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Physical\Config1\4PP065_0571_P74\mappMotion\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.mappMotion"
+    Type="Package"
+    LastWriteTime="133840884148510202" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Physical\Config1\4PP065_0571_P74\mappServices\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.mappServices"
+    Type="Package"
+    LastWriteTime="133840884148554211" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Physical\Config1\4PP065_0571_P74\mappView\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.mappView"
+    Type="Package"
+    LastWriteTime="133840884148584128" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Physical\Config1\4PP065_0571_P74\mappCockpit\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.mappCockpit"
+    Type="Package"
+    LastWriteTime="133840884148622025" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Physical\Config1\4PP065_0571_P74\Motion\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.Motion"
+    Type="Package"
+    LastWriteTime="133846986198661881" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Physical\Config1\4PP065_0571_P74\Motion\Acp10cfg.ncc"
+    LogicalPath="Config1.4PP065_0571_P74.Motion.Acp10cfg.ncc"
+    Type="File"
+    LastWriteTime="133846986911953076"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Physical\Config1\4PP065_0571_P74\Motion\Acp10map.ncm"
+    LogicalPath="Config1.4PP065_0571_P74.Motion.Acp10map.ncm"
+    Type="File"
+    LastWriteTime="133846986750574964"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Physical\Config1\4PP065_0571_P74\Motion\Acp10sys.br"
+    LogicalPath="Config1.4PP065_0571_P74.Motion.Acp10sys.br"
+    Type="File"
+    LastWriteTime="133846986203932290"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Physical\Config1\4PP065_0571_P74\VC\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.VC"
+    Type="Package"
+    LastWriteTime="133853006921581867" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Physical\Config1\4PP065_0571_P74\VC\PS2-Keyboard.dis"
+    LogicalPath="Config1.4PP065_0571_P74.VC.PS2-Keyboard.dis"
+    Type="File"
+    LastWriteTime="133853006921661657"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Downloads\Documents\kotrekhov_krbo-11-24\wtf_is_this\Physical\Config1\Hardware.jpg"
+    LogicalPath="Config1.Hardware.jpg"
+    Type="File"
+    LastWriteTime="133852986867971846"
+    Private="false" />
+</Objects>

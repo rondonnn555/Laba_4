@@ -1,0 +1,6 @@
+VAR
+	target_speed : INT := 0;
+	real_speed : INT;
+	state : state_machine;
+	RFRD_Input : INT;
+END_VAR

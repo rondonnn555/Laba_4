@@ -1,0 +1,6 @@
+{
+  global:
+    state_machine;
+  local:
+    *;
+ };
